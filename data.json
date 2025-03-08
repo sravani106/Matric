@@ -1,5 +1,17 @@
 {
-    "name": "Alice",
-    "age": 25,
-    "city": "New York"
+    {"name": "Alice", "age": 25, "city": "New York"},
+    {"name": "Bob", "age": 30, "city": "Los Angeles"},
+    {"name": "Charlie", "age": 22, "city": "Chicago"},
+    {"name": "David", "age": 28, "city": "Houston"},
+    {"name": "Emma", "age": 32, "city": "Phoenix"},
+    {"name": "Frank", "age": 27, "city": "San Diego"},
+    {"name": "Grace", "age": 26, "city": "Seattle"},
+    {"name": "Henry", "age": 29, "city": "Miami"},
+    {"name": "Ivy", "age": 31, "city": "Denver"},
+    {"name": "Jack", "age": 24, "city": "Boston"},
+    {"name": "Karen", "age": 33, "city": "Atlanta"},
+    {"name": "Leo", "age": 23, "city": "Dallas"},
+    {"name": "Mia", "age": 35, "city": "San Francisco"},
+    {"name": "Noah", "age": 36, "city": "Portland"},
+    {"name": "Olivia", "age": 34, "city": "Philadelphia"}
 }

@@ -1,3 +1,15 @@
 This is a sample text file.
 It contains multiple words for testing purposes.
 Python is great for file handling.
+Reading files is a useful skill.
+Writing files is also important.
+Data processing is common in Python.
+Handling different file formats is essential.
+This file has multiple lines.
+Each line contains different words.
+Some words may repeat.
+Counting words is a basic task.
+File handling is crucial in data science.
+Working with text files is simple in Python.
+JSON files are structured text files.
+CSV files store tabular data efficiently.
